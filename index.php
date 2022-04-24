@@ -12,7 +12,7 @@
     
   </tr>
   <tr>
-    <td><img src="images/pepsi.JPG" width="120" height="120"></td>
+    <td><img src="images/pepsi.jpg" width="120" height="120"></td>
     <td>รับงานถ่ายภาพทุกชนิด, งานแต่ง, งานปริญญา.<br>
 ช่างภาพสายเฮฮา เป็นกันเอง<br>
 บริการถ่ายภาพโปรไฟล์รายชั่วโมงสำหรับนักเรียนนักศึกษา รับเฉพาะเขตชัยภูมิ ต่างจังหวัดบวกเพิ่ม‼️<br>
@@ -49,22 +49,22 @@ Email : nitiphong@wangrach.com</td>
 </table>
 <table>
   <tr>
-    <td><img src="images/DSC_1677.JPG" width="200" height="200"></td>
-    <th><img src="images/DSC_2282.JPG" width="200" height="200"></th>
-    <th><img src="images/DSC_3078.JPG" width="200" height="200"></th>
-    <th><img src="images/DSC_7108.JPG" width="200" height="200"></th>
+    <td><img src="images/DSC_1677.jpg" width="200" height="200"></td>
+    <th><img src="images/DSC_2282.jpg" width="200" height="200"></th>
+    <th><img src="images/DSC_3078.jpg" width="200" height="200"></th>
+    <th><img src="images/DSC_7108.jpg" width="200" height="200"></th>
   </tr>
   <tr>
-    <td><img src="images/DSC_1839.JPG" width="200" height="200"></td>
-    <td><img src="images/DSC_2389.JPG" width="200" height="200"></td>
-    <td><img src="images/DSC_3168.JPG" width="200" height="200"></td>
-    <td><img src="images/DSC_7111.JPG" width="200" height="200"></td>
+    <td><img src="images/DSC_1839.jpg" width="200" height="200"></td>
+    <td><img src="images/DSC_2389.jpg" width="200" height="200"></td>
+    <td><img src="images/DSC_3168.jpg" width="200" height="200"></td>
+    <td><img src="images/DSC_7111.jpg" width="200" height="200"></td>
   </tr>
   <tr>
-    <td><img src="images/DSC_2176.JPG" width="200" height="200"></td>
-    <td><img src="images/DSC_2409.JPG" width="200" height="200"></td>
-    <td><img src="images/DSC_3171.JPG" width="200" height="200"></td>
-    <td><img src="images/DSC_7114.JPG" width="200" height="200"></td>
+    <td><img src="images/DSC_2176.jpg" width="200" height="200"></td>
+    <td><img src="images/DSC_2409.jpg" width="200" height="200"></td>
+    <td><img src="images/DSC_3171.jpg" width="200" height="200"></td>
+    <td><img src="images/DSC_7114.jpg" width="200" height="200"></td>
   </tr>
 </table>
 </body>
