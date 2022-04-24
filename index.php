@@ -39,9 +39,8 @@
 ส่งงานแบบแต่งใน 1-2 สัปดาห์<br>
 รับไฟล์ภาพทั้งหมด(google drive , LINE หากสะดวกที่ลูกค้าต้องการ<br>
 contact☎️<br>
-FB: Nitiphong Wangrat<br>
-Tel:083-272-6731<br>
-Line:@Plinelenspap<br>
+FB: <a href="https://web.facebook.com/profile.php?id=100009991006734">Nitiphong Wangrat</a><br>
+Line:<a href="https://lin.ee/1oVM4Nk" > @Plinelenspap</a><br>
 Tel.083-27-26-731 📱<br>
 Email : nitiphong@wangrach.com</td>
   
