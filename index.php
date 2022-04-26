@@ -3,7 +3,7 @@
 <head>
 <title>Nitiphong Wangrach</title>
 </head>
-<body>
+<body style="background-color:lightskyblue;">
 
 <table>
   <tr>
@@ -41,7 +41,7 @@
 contact☎️<br>
 FB: <a href="https://web.facebook.com/profile.php?id=100009991006734">Nitiphong Wangrat</a><br>
 Line:<a href="https://lin.ee/1oVM4Nk" > @Plinelenspap</a><br>
-Tel.083-27-26-731 📱<br>
+Tel.083-272-6731 📱<br>
 Email : nitiphong@wangrach.com</th>
   
   </tr>
